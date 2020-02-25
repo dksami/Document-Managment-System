@@ -1,0 +1,15 @@
+.Super {
+    background: #fafafa !important
+}
+.appMenu {
+    width: '100%',
+  }
+.navList {
+    width: drawerWidth,
+}
+.menuItem {
+    width: drawerWidth,
+}
+.menuItemIcon {
+    color: '#97c05c',
+  }
